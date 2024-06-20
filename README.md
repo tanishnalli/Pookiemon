@@ -1,21 +1,9 @@
 # README #
-
-## Group Information ##
-
-**Team Members**
-Tanish Nalli,
-Daniil Petc,
-Jishnu Ganisetti
-
-**Group Number:** 1
-
-**Period:**	4
-
 **Game Title:** Pookiémon Fire Red
 
 ## Game Proposal ##
 
-We're developing a game inspired by Pokémon FireRed, where players explore the Kanto region capturing and
+I am developing a game inspired by Pokémon FireRed, where players explore the Kanto region capturing and
 training Pokémon, but with simplified mechanics to focus on strategy and adventure, including unique obstacles
 like elemental terrains, hidden paths, and non-battle encounters with NPCs and wild Pookiémon.
 
