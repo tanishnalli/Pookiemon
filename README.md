@@ -34,10 +34,6 @@ How to Win:
 [Pokemon Fire Red Gameplay](https://www.youtube.com/watch?v=2l4FGPkDwss) Original Inspiration <br/>
 [Scroller Class](http://www.greenfoot.org/topics/57567/0#post_111359) Used this class for World Scrolling (Permission taken from Mr. McLeod)
 
-## Teacher Response ##
-
-Your teacher can add comments and suggestions here
-
 ## Class Design and Brainstorm ##
 Make 2 Towns <br/>
 1 Gym Battles, with Brock <br/>
